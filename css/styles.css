@@ -47,6 +47,15 @@
   box-sizing: border-box;
 }
 
+.animate__animated.animate__fadeInLeft {
+  --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeInRight {
+  --animate-duration: 2s;
+}
+
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
