@@ -55,6 +55,9 @@
   --animate-duration: 1s;
 }
 
+#projbut:hover {
+  cursor: pointer;
+}
 
 html {
   font-family: sans-serif;
