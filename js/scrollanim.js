@@ -6,7 +6,7 @@ $(window).on("load",function() {
       var objectBottom = $(this).offset().top + $(this).outerHeight()
       
       /* If the element is completely within bounds of the window, fade it in */
-      if (objectBottom < windowBottom) { //object comes into view (scrolling down)
+      if (objectBottom < windowBottom + 30) { //object comes into view (scrolling down)
         if ($(this).css("opacity")==0) {
             if($(this).hasClass("fadeLeft")) {
                 $(this).addClass("animate__animated animate__fadeInLeft")
