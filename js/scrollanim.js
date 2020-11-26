@@ -18,3 +18,9 @@ $(window).on("load",function() {
     })
   }).scroll() //invoke scroll-handler on page-load
 })
+
+$("#projbut").click(function() {
+    $('html,body').animate({
+        scrollTop: $("#projects").offset().top
+    }, 'slow');
+})
