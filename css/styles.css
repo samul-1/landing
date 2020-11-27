@@ -59,6 +59,10 @@
   cursor: pointer;
 }
 
+.colored-icon {
+   color: #17153A !important;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -6107,7 +6111,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-image: linear-gradient(to right bottom, #00245b, #17255a, #232658, #2d2757, #342855);
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
