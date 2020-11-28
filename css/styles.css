@@ -10103,7 +10103,7 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   /*background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(92, 77, 66, 0.8) 100%);*/
-  background-image: linear-gradient(to left bottom, rgba(0,11,81, 0.9), rgba(21,11,73, 0.9), rgba(30,11,66, 0.9), rgba(35,13,58, 0.9), rgba(37,15,52, 0.9), rgba(35,15,48, 0.9), rgba(33,16,45, 0.9), rgba(31,16,41, 0.9), rgba(26,13,38, 0.9), rgba(21,9,36, 0.9), rgba(16,5,33,0.9)), url('../assets/img/stars.png');
+  background-image: linear-gradient(to left bottom, rgba(0,11,81, 0.9), rgba(21,11,73, 0.9), rgba(30,11,66, 0.9), rgba(35,13,58, 0.9), rgba(37,15,52, 0.9), rgba(35,15,48, 0.9), rgba(33,16,45, 0.9), rgba(31,16,41, 0.9), rgba(26,13,38, 0.9), rgba(21,9,36, 0.9), rgba(16,5,33,0.9)), url('../assets/img/stars.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
